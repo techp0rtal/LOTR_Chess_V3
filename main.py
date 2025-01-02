@@ -2,7 +2,7 @@
 # P.S. This project will heavily use pygame module
 # Step 1: We'll start by making the board itself, and have it pop up with dimensions we specify when you run the program
 import pygame
-#from pygame.examples.go_over_there import screen
+#from pygame.examples.go_over_there import screen s
 
 pygame.init()
 WIDTH = 1000
